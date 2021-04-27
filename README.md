@@ -8,11 +8,11 @@
  - [Country](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_countries.ipynb)  
 
 ## Analysis  
- - [Data pre-processing](https://github.com/BMClab/covid19/blob/main/analyses/preprocessing.ipynb)  
- - [Data resampling](https://github.com/BMClab/covid19/blob/main/analyses/resampling.ipynb)  
- - [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analyses/gender_age_country_majors.ipynb)  
- - [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analyses/coronavirus_policy_responses.ipynb)  
- - [Running training in 2019 and 2020](https://github.com/BMClab/covid19/blob/main/analyses/running_2019_2020.ipynb)
+ - [Data pre-processing](https://github.com/BMClab/covid19/blob/main/analysis/preprocessing.ipynb)  
+ - [Data resampling](https://github.com/BMClab/covid19/blob/main/analysis/resampling.ipynb)  
+ - [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analysis/gender_age_country_majors.ipynb)  
+ - [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analysis/coronavirus_policy_responses.ipynb)  
+ - [Running training in 2019 and 2020](https://github.com/BMClab/covid19/blob/main/analysis/running_2019_2020.ipynb)
 
 ## Data  
  - https://github.com/BMClab/covid19/tree/main/data
