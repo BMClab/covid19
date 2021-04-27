@@ -3,8 +3,8 @@
 > Accompanying repository
 
 ## Strava web scrapper  
- - [Athletes - Web Scraping](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_athletes.ipynb)  
- - [Activity Feed Details - Web Scraping](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_activities.ipynb)  
+ - [Athletes](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_athletes.ipynb)  
+ - [Activity Feed Details](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_activities.ipynb)  
  - [Country](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_countries.ipynb)  
 
 ## Analysis
