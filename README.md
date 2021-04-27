@@ -7,9 +7,12 @@
  - [Activity Feed Details - Web Scraping](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_activities.ipynb)  
  - [Country](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_countries.ipynb)  
 
-## data analysis
+## Analysis
  - [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analyses/gender_age_country_majors.ipynb)  
  - [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analyses/coronavirus_policy_responses.ipynb)  
+
+## Data  
+ - https://github.com/BMClab/covid19/tree/main/data
 
 
 ## License
