@@ -12,7 +12,7 @@
  - [Data resampling](https://github.com/BMClab/covid19/blob/main/analyses/resampling.ipynb)  
  - [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analyses/gender_age_country_majors.ipynb)  
  - [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analyses/coronavirus_policy_responses.ipynb)  
- - [Running training in 2019 and 2020](https://github.com/BMClab/covid19/blob/main/analyses/run_activity_2019_2020.ipynb)
+ - [Running training in 2019 and 2020](https://github.com/BMClab/covid19/blob/main/analyses/running_2019_2020.ipynb)
 
 ## Data  
  - https://github.com/BMClab/covid19/tree/main/data
