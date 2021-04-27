@@ -10,6 +10,7 @@
 ## Analysis
  - [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analyses/gender_age_country_majors.ipynb)  
  - [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analyses/coronavirus_policy_responses.ipynb)  
+ - Running training in 2019 and 2020 (to be released)
 
 ## Data  
  - https://github.com/BMClab/covid19/tree/main/data
