@@ -1,6 +1,4 @@
-# covid19
-
-A repository for the article "A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic".
+# A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic".
 
 ## Strava web scrapper  
  - [Athletes - Web Scraping](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_athletes.ipynb)  
