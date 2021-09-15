@@ -12,7 +12,7 @@
 
 There are two types of data used in the Jupyter notebooks in this repository. The first type of data (used in the 'Preprocessing' notebooks) is the data created directly by the web scrapping which contains a lot of information about the athletes' activities (but only information that the athletes themselves have chosen to publicly display on their pages on the Strava website). In any case, we have chosen not to share this data publicly for ethical reasons. The second type of data, which we provide in the Figshare repository, is the output of the 'Preprocessing' notebooks and is used in the 'Analysis' notebooks.
 
-**Download the data from https://doi.org/10.6084/m9.figshare.16620238**
+**Download data from https://doi.org/10.6084/m9.figshare.16620238**
 
 ## Preprocessing
 
