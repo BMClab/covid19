@@ -4,9 +4,9 @@
 
 ## Strava web scrapper
 
-- [Athletes](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_athletes.ipynb)  
-- [Activity Feed Details](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_activities.ipynb)  
-- [Country](https://github.com/BMClab/covid19/blob/main/strava-scraper/webscrap_countries.ipynb)  
+- [Athletes](https://nbviewer.org/github/BMClab/covid19/blob/main/strava-scraper/webscrap_athletes.ipynb)  
+- [Activity Feed Details](https://nbviewer.org/github/BMClab/covid19/blob/main/strava-scraper/webscrap_activities.ipynb)  
+- [Country](https://nbviewer.org/github/BMClab/covid19/blob/main/strava-scraper/webscrap_countries.ipynb)  
 
 ## Data
 
@@ -18,14 +18,14 @@ There are two types of data used in the Jupyter notebooks in this repository. Th
 
 The next two Jupyter notebooks use the data created directly by web scraping and we are not sharing this data publicly for ethical reasons. If you want to run these notebooks, you will first have to run the 'Strava web scrapper' notebooks we provide.
 
-- [Data pre-processing](https://github.com/BMClab/covid19/blob/main/analysis/preprocessing.ipynb)  
-- [Data resampling](https://github.com/BMClab/covid19/blob/main/analysis/resampling.ipynb)  
+- [Data pre-processing](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/preprocessing.ipynb)  
+- [Data resampling](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/resampling.ipynb)  
 
 ## Analysis
 
-- [Frequencies of gender, age, country, and participation in Majors](https://github.com/BMClab/covid19/blob/main/analysis/gender_age_country_majors.ipynb)  
-- [Policy Responses to the Coronavirus Pandemic](https://github.com/BMClab/covid19/blob/main/analysis/coronavirus_policy_responses.ipynb)  
-- [Running training in 2019 and 2020](https://github.com/BMClab/covid19/blob/main/analysis/run_2019_2020.ipynb)
+- [Frequencies of gender, age, country, and participation in Majors](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/gender_age_country_majors.ipynb)  
+- [Policy Responses to the Coronavirus Pandemic](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/coronavirus_policy_responses.ipynb)  
+- [Running training in 2019 and 2020](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020.ipynb)
 
 ## License
 
