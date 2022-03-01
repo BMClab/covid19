@@ -25,7 +25,10 @@ The next two Jupyter notebooks use the data created directly by web scraping and
 
 - [Frequencies of gender, age, country, and participation in Majors](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/gender_age_country_majors.ipynb)  
 - [Policy Responses to the Coronavirus Pandemic](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/coronavirus_policy_responses.ipynb)  
-- [Running training in 2019 and 2020](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020.ipynb)
+- [Running training in 2019 and 2020](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020_time_series.ipynb)
+- [Running training in 2019 and 2020 - averages for 10 countries](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020_country2.ipynb)  
+- [Running training in 2019 and 2020 - Brazil](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020_time_series_br.ipynb)  
+
 
 ## License
 
