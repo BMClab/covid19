@@ -35,7 +35,6 @@ The next two Jupyter notebooks use the data created directly by web scraping and
 
 And a BibTeX entry:
 
-```tex
 @article{10.7717/peerj.13192,
  title = {A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic},
  author = {Afonseca, Leonardo A. and Watanabe, Renato N. and Duarte, Marcos},
@@ -49,7 +48,6 @@ And a BibTeX entry:
  url = {https://doi.org/10.7717/peerj.13192},
  doi = {10.7717/peerj.13192}
 }
-```
 
 ## License
 
