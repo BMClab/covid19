@@ -33,6 +33,24 @@ The next two Jupyter notebooks use the data created directly by web scraping and
 
 > Afonseca LA, Watanabe RN, Duarte M. 2022. A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic. PeerJ 10:e13192 https://doi.org/10.7717/peerj.13192
 
+And a BibTeX entry:
+
+```tex
+@article{10.7717/peerj.13192,
+ title = {A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic},
+ author = {Afonseca, Leonardo A. and Watanabe, Renato N. and Duarte, Marcos},
+ year = 2022,
+ month = mar,
+ keywords = {Physical activity, Sports, Public health, Data science, Running},
+ volume = 10,
+ pages = {e13192},
+ journal = {PeerJ},
+ issn = {2167-8359},
+ url = {https://doi.org/10.7717/peerj.13192},
+ doi = {10.7717/peerj.13192}
+}
+```
+
 ## License
 
 The non-software content of this project is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), and the software code is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
