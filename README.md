@@ -29,7 +29,7 @@ The next two Jupyter notebooks use the data created directly by web scraping and
 - [Running training in 2019 and 2020 - averages for 10 countries](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020_country2.ipynb)  
 - [Running training in 2019 and 2020 - Brazil](https://nbviewer.org/github/BMClab/covid19/blob/main/analysis/run_2019_2020_time_series_br.ipynb)  
 
-## How to cite thsi work
+## How to cite this work
 
 > Afonseca LA, Watanabe RN, Duarte M. 2022. A worldwide comparison of long-distance running training in 2019 and 2020: associated effects of the COVID-19 pandemic. PeerJ 10:e13192 https://doi.org/10.7717/peerj.13192
 
